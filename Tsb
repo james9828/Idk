@@ -13,7 +13,7 @@ local baseButton = hotbarFrame:FindFirstChild("1").Base
 local ToolName = baseButton.ToolName
 
 
-ToolName.Text = "Peril's Push"
+ToolName.Text = "Hotdog ko malaki"
 
 
 local player = game.Players.LocalPlayer
